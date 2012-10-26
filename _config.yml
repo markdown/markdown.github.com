@@ -1,0 +1,7 @@
+safe: true # Required for GitHub Pages
+lsi: false # Required for GitHub Pages
+pygments: true # Required for GitHub Pages
+
+markdown: rdiscount
+exclude: [README.md]
+
