@@ -2,7 +2,7 @@
 layout: index
 ---
 ### Welcome to the Markdown Community Page
-[Markdown][1] is a
+[Markdown][1] is:
 
 > a text-to-HTML conversion tool for web writers. Markdown allows you to
 > write using an easy-to-read, easy-to-write plain text format, then
