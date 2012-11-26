@@ -330,7 +330,7 @@ Full-Width Styles
 
 #navbar ul li {
   list-style-type: none;
-  display: block;
+  display: inline;
 }
 
 #navbar ul li a {
