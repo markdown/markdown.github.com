@@ -321,6 +321,30 @@ Full-Width Styles
   text-shadow: #111 0px 0px 10px;
 }
 
+#navbar {
+  text-align: right;
+  margin: 0 auto;
+  position: relative;
+  max-width: 640px;
+}
+
+#navbar ul li {
+  list-style-type: none;
+  display: inline;
+}
+
+#navbar ul li a {
+  font-size: 20px;
+  color: #0090ff;
+  padding: 10px;
+}
+
+#navbar ul li a:hover {
+  background-color: #0090ff;
+  color: white;
+  border-radius: 10px;
+}
+
 #downloads {
   position: absolute;
   width: 210px;
