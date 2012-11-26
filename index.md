@@ -26,6 +26,19 @@ These are some developers who have written Markdown parsers:
 * [vmg](https://github.com/vmg)
 
 
+### Libraries
+
+These are some libraries that will parse markdown:
+
+* [Markdown](http://daringfireball.net/projects/markdown/) - John Grubers perl script
+* [markdown-js](https://github.com/evilstreak/markdown-js) - a Markdown parser for javascript
+* [php-markdown](https://github.com/michelf/php-markdown) - a port to PHP of John Grubers Markdown perl script (plus more)
+* [Python-Markdown](https://github.com/waylan/Python-Markdown) - a Python implementation of John Grubers Markdown
+* [github-flavored-markdown](https://github.com/github/github-flavored-markdown) - Githubs version of markdown
+* [sundown](https://github.com/vmg/sundown) - a markdown parser in C
+* [redcarpet](https://github.com/vmg/redcarpet) - a markdown parser in ruby (available as a gem)
+
+
 ### Implementors
 Coming soon...
 
