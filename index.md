@@ -12,6 +12,10 @@ This page is maintained by and for the markdown community to document various
 tools and resources available to document authors and developers, as well as
 implementors of the various markdown implementations.
 
+### Want to help?
+
+Got an idea for this site? You help by [joining the discussion](https://github.com/markdown/markdown.github.com/issues) on github and sharing your ideas.  If you've read the discussions and think there's something you can do you can dive right in and fork [this sites Github repository](https://github.com/markdown/markdown.github.com), [make your changes](https://github.com/markdown/markdown.github.com/wiki/How-to-edit-the-site) and [do a pull request](https://help.github.com/articles/using-pull-requests).
+
 ### Authors
 Coming soon...
 
