@@ -16,7 +16,15 @@ implementors of the various markdown implementations.
 Coming soon...
 
 ### Developers
-Coming soon...
+
+These are some developers who have written Markdown parsers:
+
+* [John Gruber](http://daringfireball.net/)
+* [evilstreak](https://github.com/evilstreak)
+* [michelf](https://github.com/michelf)
+* [waylan](https://github.com/waylan)
+* [vmg](https://github.com/vmg)
+
 
 ### Implementors
 Coming soon...
