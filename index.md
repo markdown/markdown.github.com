@@ -40,7 +40,12 @@ These are some libraries that will parse markdown:
 
 
 ### Implementors
-Coming soon...
 
+These are some implementations of markdown:
+
+* [Github](https://github.com) - Use a modified markdown for issues, comments and wiki pages
+* [Bitbucket](https://bitbucket.org) - uses markdown for issues
+* [StackOverflow and others](https://stackexchange.com/) - the entire StackExchange network uses markdown
+* [markdown-here](https://github.com/adam-p/markdown-here) - a browser extension to render markdown in emails
 
 [1]: http://daringfireball.net/projects/markdown/
