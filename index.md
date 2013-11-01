@@ -23,11 +23,11 @@ project needs to process markdown documents, you'll need to chose an
 coded in will likely have the largest impact on which implementation you
 chose, there are a number of other factors to consider. Is performance 
 a high priority? Perhaps bindings to a C library will suit you best.
-Will untrusted users be able to post documents to your wed site? Be sure
+Will untrusted users be able to post documents to your web site? Be sure
 you are sanitizing the HTML to avoid XSS attacks and the like. Do you
 want to offer support for a superset of Markdown's syntax? Will you
 be writting your own superset? Some implementations come as/is, while
-others have varying degrees of customability. Will your project have an
+others have varying degrees of customizability. Will your project have an
 international audience? Perhaps an implementation that supports Unicode
 input and/or right-to-left text is right for you.
 
