@@ -12,7 +12,7 @@ To run the website locally, run
 
     jekyll --auto --server
 
-It will recompile the website as you save files and sever them on
+It will recompile the website as you save files and serve them on
 http://localhost:4000.
 
 Note that the configuration currently uses the `rdiscount` Markdown processor.
