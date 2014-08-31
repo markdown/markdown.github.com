@@ -10,11 +10,11 @@ following the instructions at [the jekyll repository on GitHub][1].
 
 To run the website locally, run
 
-    jekyll --auto --server
+    jekyll serve --watch
 
 It will recompile the website as you save files and serve them on
 http://localhost:4000.
 
 Note that the configuration currently uses the `rdiscount` Markdown processor.
 
-[1]: https://github.com/mojombo/jekyll
+[1]: https://github.com/jekyll/jekyll
