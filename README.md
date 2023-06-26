@@ -1,4 +1,4 @@
-# markdown.github.com
+# markdown.github.io
 
 This is an effort to document the current status of Markdown by and for the
 community.
